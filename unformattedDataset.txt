@@ -1,0 +1,349 @@
+The industry and the profession for the abuse are Natural Resources Canada (NRC) and government seismologists, respectively. The ethical abuse is a distortion because the information that should be released to the public was withheld.
+From the perspective of NRC, the primary audience is essential internal customers and the reporters who made requests. The secondary audience is nonessential internal customers and the public that would be provided a statement.
+In their first communication, local reporters were the senders, and NRC was the receiver. Reporters send a message to NRC requesting information about the earthquake, NRC receives the message, and government seismologists send a response as feedback. The feedback from the seismologists ended the communication cycle because they could not speak on the earthquake. The U.S. Geological Survey quickly provided information that the quake occurred at 1:41 pm in a public statement, and reporter Tom Spears noted that it was after 6:00 pm when NRC released a useful statement. The communication channels and time of communications could be more detailed in the example.
+Institutional communication barriers exist for NRC and seismologists because there are intermediaries that handle media requests, which can delay their response times. The example needs to provide more detail to know the severity of the delays. The reporters do not have any documented communication barriers. 
+Institutional communication barriers exist for NRC and seismologists because there are intermediaries that handle media requests, which can delay their response times. The example needs to provide more detail to know the severity of the delays. The reporters do not have any documented communication barriers. 
+The reporters and NRC use internalization acceptance and compliance methods, respectively. The reporters and NRC have separate goals but can help each other to their respective end states. The reporters require information from NRC, and NRC should release information involving the public. Logically, a reporter would request information about a natural event from a government agency that studies natural events. NRC does not provide any channels for communication; their feedback to the reporters provided no information, and they were late relative to their American counterparts; the communication cycle ended based on NRC’s feedback.
+NRC used a power connection to justify the ethical abuse. NRC and its delegates can obfuscate who is responsible for responding to public matters with no external repercussions. Based on the government policy, NRC seismologists could have responded to the reporters with their findings on the earthquake. 
+In the first case of ethical abuse, a Canadian reseller withheld study results of their COVID-19 rapid tests and was awarded 15 contracts from Health Canada for half of all rapid tests, or 404 million tests (Sonntag, P, 2024). This action constitutes an informational distortion. The company BTNX withheld test results regarding effectiveness when applying for approval of their COVID-19 tests. Concerningly, Internal Health Canada studies on the BTNX test kits also contradicted the submitted documents regarding effectiveness (Sonntag, P, 2024). Medical Devices Regulations law in Canada requires “information respecting the safety and effectiveness of the device” to be included in the application (Medical Devices Regulations, 2023). The Health Minister approved BTNX without a follow-up or further investigation into the provided safety and effectiveness documents. 
+The sender is BTNX, and the receiver is the Health Canada Minister; the communication cycle is initiated by BTNX submitting written approval for their test kits. The Health Canada Minister provides feedback to BTNX after reviewing the application and approving their test kits. The primary audience is the Health Canada Minister, and secondary audiences would be BTNX employees, external auditing companies, and the public. The power connection between BTNX and Health Canada is a rational connection; BTNX wants access to a large market, and Health Canada is trying to source medical equipment at the onset of a pandemic.  
+The similarities with the original ethical abuse are that the communication cycle ended prematurely or without due diligence from the respective government agencies, information that ought to be made available was withheld, and the public suffered from the communication cycle failures.
+In the second case of ethical abuse, Johnson and Johnson (J&J) did not correctly inform the public or regulators about the levels of asbestos in their talc powder. This action constitutes an informational distortion. J&J had internally acknowledged asbestos in their talc by 1957 and presented only some evidence when the U.S. Food and Drug Administration (FDA) proposed limits on asbestos in cosmetic talc products in 1976 (Smith, 1957; Girion, 2018). 
+In this case, the sender is J&J; the receiver is the FDA. The primary audience is the FDA, and the secondary audience is the J&J employees, industry, and the public. The communication cycle medium is through meetings and letters. There is great evidence of an institutional and practical stance J&J took when withholding data from the FDA and the public. The manipulation of data appears institutional, and there were no consequences at the time for their actions. The power connection between J&J and the FDA is primarily a rational connection because the FDA wants to regulate the industry but will work with the industry to achieve its goals, and J&J wants to minimize regulation and needs to work with the FDA to do so. Ultimately, J&J was incentivized to withhold evidence to persuade the FDA to achieve its goal of having less regulation.
+The similarities with the original ethical abuse are that the communication cycle was not being used in good faith, information that ought to have been shared was withheld, and the public suffered from the communication cycle failures.
+A communication cycle for the reporters should be established before the requests are given to NRC. Then reporters would better understand the information they would receive, and NRC and its delegates would not need to make ad hoc decisions.
+A reward and consequence mechanism should be implemented at NRC that would reward internal employees for taking responsibility for media inquiries when they can speak on the matters. 
+A schedule for a seismologist should be made to delegate the responsibility of the media correspondent in advance. Then, seismologists would know who communicates with the media or the public. 
+A public-facing portal could be made that publishes seismic data as it comes in. It would provide the public information at a near-live stream of data. Instructions are a detailed sequential account of completing a process with a resulting outcome (Lannon et al., 2024; Clark, 2021). Procedures detail how, what, when, where and why tasks are completed (Carroll, 2017) (Merriam-Webster (n.d.) defines a procedure as “a particular way of accomplishing something or of acting.”); procedures are a level of abstraction above instructions (Clark, 2021). Lannon et al. (2024) state that the two differences between procedures regarding instructions are that the reader already knows how to perform the tasks and does not require detailed instructions, and the reader does not know the high-level information to complete a task like the sequence to complete a task or when to involve other work groups; therefore, procedures are aimed at work groups and how they work together to facilitate the work to complete a task and instructions are aimed at helping individuals complete a discrete task (Peach, n.d.). Instructions and procedures must be differentiated between because they have different functions, audience, scope, and detail. 
+For example, safe work procedures mandate that when ladders are used, they must be inspected before use, but the procedure does not detail how to inspect the ladder; it simply directs actions required to work safely. If the safe work procedures were instead safe work instructions for ladder safety, then one would expect to see detailed chronological step-by-step instructions on how to inspect the ladder. There are many cases of this example in technical work, where procedures direct work and involve multiple workgroups, and instructions are reference materials an individual uses while performing work.
+Align Technology, Inc. is a medical device company that began selling Invisalign in 1999. The device is a plastic retainer worn over the teeth and, through 19 iterations, slowly corrects malocclusions. The company is facing two problems that are holding it back from being profitable: its capacity is too large for its demand, causing increased fixed manufacturing prices, and its processes are not completely optimized, causing increased variable manufacturing costs; consequently, the product is more expensive to produce than it can be sold.  
+Align Technology, Inc. is provided with an alternative that includes right-sizing their Treat Operations, implementing a Total Quality Management program for their processes, and selling to the large dentist market in The United States and Canada. These solutions minimize capacity divergence and variable manufacturing costs so that the company can realize its target goal of 50% gross margins by the end of 2001.Zia Chishti and Kelsey Wirth are co-founders of Align Technology, their company sells one product called Invisalign which is marketed to correct up to moderate malocclusion in adults, and as a replacement to braces. Invisalign is a non-invasive mouthpiece that fits over the teeth and can align the teeth as prescribed by the orthodontist through 19 incremental changes to the mouthpiece. Invisalign is sold at a flat rate of $1600 to orthodontists who supply them to patients, and soon general dentist will be onboarded to sell Invisalign (Bowen & Groberg, 2002)
+Align Technology’s problem is that their production costs are higher than their selling price and they over built capacity based on high initial sales forecasts. They sell Invisalign for $1600 while production costs are $1800 and they had built their capacity in Q4 of 2000 to 10400 units/quarter based on 13500 forecasted units sold/quarter after an aggressive marketing campaign in September 2000, but sold only 7,440 cases in Q2 of 2001. A change will be required if they are to achieve their target of 50% gross margins by end of 2001 (Bowen & Groberg, 2002, p. 1).The status quo is maintained, and no deviation from the current operations is performed. Align Technology can continue operating with its IPO runway and further stock sales for additional funding. If sales continue to trend upwards and dentists can sell Invisalign, the initial oversized capacity would be filled, and a wait-and-see approach to capacity increases could be used. Increased sales alone would have to account for the 50% gross margins goal.As proposed in the case study, Align Technology is looking toward recommending a cost-effective capacity plan based on new sales forecasts 18 months out. Zai and Kelsey consider “right-sizing” to lower the divergence between capacity and demand to meet their goals, and they will begin selling Invisalign to dentists (Bowen & Groberg, 2002, p.1). Each process will be analyzed to determine which are inefficient and to what extent they can be changed without affecting the future growth of dentist sales.Processes that contribute to fixed manufacturing costs and have poor utilization are “right-sized,” considering future growth from dentist sales. The variable manufacturing costs are minimized by optimizing the manufacturing processes shown by Hedge’s team in Exhibit 9 (Bowen & Groberg, 2002, p.21), and a total quality management system is put into place so process improvements can be implemented when discovered.The status quo is presented as a baseline of a likely outcome if nothing is done. If nothing is done, the business will fail because the revenues are less than the cost of revenues, and the company will never generate a profit. The financial statements show that at the end of June 2001, Align Technology, inc. had $108.513 million in total current assets, of which $39.501 million were cash and cash equivalents. The company’s operating activities for the last six months cost $52.181 million; therefore, not considering further fundraising or stock sale, the company can operate at current levels for roughly 4.5 months (Bowen & Groberg, 2002, pp. 17-19). The sales from dentists could increase current sales from 7,440 to the maximum capacity of 10,400, representing a change of 39.78%, but that would not increase gross margins to 50% without other changes. This alternative is not viable and must be avoided; otherwise, the company will fail.The company maintains a capacity buffer of 20% to minimize delivery constraints; therefore, the utilization is 91.5%. The buffer is negotiable if further reduction can satisfy the gross margin goal of 50% by 2001 (Bowen & Groberg, 2002, p. 1).
+Upon further analysis of Exhibit 10, each process has different utilization levels; some processes were built out more than others (Bowen & Groberg, 2002, p.22). Figure 1 shows the current utilization for each process. This figure is calculated with 0% capacity cushion.Treat operations, and SLA mold fabrication have the lowest utilization, and resizing them would significantly impact fixed manufacturing costs. The logistics of scaling down Treat Operations is simpler than SLA Mold Fabrications based on the cost of equipment, training time and lead time of the equipment (Bowen & Groberg, 2002, p.22). Figures 2 and 3 show each process’s capacity at current sales, current maximum capacity and forecasted 12,500 sales; this shows how much each process is below maximum capacity and, at the same time, which processes will need to be maintained or expanded for 12,500 sales a quarter.
+Based on the company’s current situation, it makes sense to right-size the Treat Operations down by 23.5% or more, but assuming dentists will push sales near 12,500 in Q3 or Q4 2001, then resizing SLA Fabrication does not make financial sense. When the company provides new forecasting data, this can be revisited, but further process capacity analysis can be seen in Appendix A. All other processes would need to be increased, or overtime would have to be utilized to make capacity for 12,500 sales per quarter. Removing the 20% capacity cushion could help but that is at the discretion of the company and should be above 5%.Suppose capacity is altered to maximize utilization and decrease fixed manufacturing costs. In that case, Align Technology must consider its future forecasts and determine which processes are worth downsizing and to what extent. Assuming dentists push sales to 12,500 sales per quarter, downsizing capacity alone will likely not be enough to increase gross margins to 50%; either more significant sale numbers are required, or changes to the processes themselves must be done to lower variable manufacturing costs. Assuming capacity changes are made, Treat Operations are reduced by 23.4%, and dentist sales approach or exceed 12,500 cases per quarter in Q3 or Q4 of 2001, then changes to the processes themselves will be required to lower the variable costs of manufacturing to achieve the target goal of 50% gross margin by the end of 2001. Fixed costs will be reduced as utilization increases when sales increase by 68.0% (7,440 sales to 12,500 sales) and further reduced by downsizing the Treat Operations process by 23.4%, but further reductions to manufacturing costs can be made to variable costs by improving processes and implementing process improvements when they become available. Currently, gross margins are at -2.57%. To meet the goal of 50% gross margins, the revenue and cost of revenue must be raised and lowered, respectively. Hedge’s team already implemented changes shown in Appendix B from Exhibit 9, reducing manufacturing costs by 46.84%, and further improvements are stated to be available (Bowen & Groberg, 2002, p. 2).
+Hedge’s teams in each process group should implement a Total Quality Management (TQM) program where the employees have direct responsibility for their work; this would increase employee responsibility and consequently improve the rework costs associated with manufacturing. Additionally, employee involvement can increase manufacturing capacity through efficiency and internal/external customer satisfaction by improving quality at the source (Krajewski & Malhotra, 2022, p. 128). The process of TQM also starts the company in the direction of documenting quality standards of their processes, which can be used to apply for ISO 9001 standards or the Baldrige Performance Excellence Program, which would help marketing and sales and improve their processes further (Krajewski & Malhotra, 2022, pp. 146-147).
+Dentists should be marketed to and onboarded systematically so that forecasting new sales can be done reliably. The number of dentists in The United States and Canada totals 100,000 based on Exhibit 7 (Bowen & Groberg, 2002, p. 21); it seems reasonable to assume that a 68% increase in sales can come from a possible 100,000 dentists, considering all current customers come from 8,500 orthodontists. 5,060 additional sales per quarter would need to be generated by the 100,000 dentists, or 5.06% of dentists would need to buy one case of Invisalign per quarter. If Align Technology, Inc. can onboard as many dentists as possible in Q3 and Q4 of 2001, it should easily make these sales numbers.
+Align Technology can reach its goal of 50% gross margins, minimize capacity divergence and fixed manufacturing costs, minimize process inefficiencies and variable manufacturing costs, and increase sales by selling Invisalign to dentists. This solution corrects their over-built capacity issues by properly right-sizing based on capacity analysis. It lowers the value of their manufacturing costs by optimizing their processes so their product can make a profit. If revenues grew by 68% and costs of revenue decreased by 10%, the gross margin would be at 45% by the end of the year, this shows that 50% gross margin is achievable. The Minimize Capacity Divergence and Variable Costs alternative is selected because it best addresses the main problem that Align Technology, Inc. faces while also achieving its target goal. It was shown that the capacity can only be reduced so much while expecting increased sales from dentists and avoiding future capacity constraints. The alternative selected balances reducing fixed manufacturing costs by reducing capacity in the Treat Operations and increasing sales through the dentist by implementing a TQM program to increase and implement process improvements to decrease the variable manufacturing costs to achieve the company's goals.
+Hedge's team has shown that they can decrease process inefficiencies, and notwithstanding new product forecasts, the capacity in all other processes should remain to accommodate increased sales in Q3 and Q4 of 2001. If this alternative is implemented, Align Technology, Inc. will be able to achieve its goal of 50% gross margins by the end of 2001. Align Technology, Inc. is poised to do well but must overcome two primary problems to become profitable and achieve its goal. The first was their excess capacity caused by inflated sales forecasts, which increased fixed manufacturing costs; the second was that their processes were not optimized, increasing variable manufacturing costs.
+The alternative proposed was selected over the two others because the Status Quo would result in the company failing, and the Minimize Capacity Divergence alternative did not do enough to reach the company’s goal of 50% gross margins by the end of 2001. The alternative selected utilizes all the proposals from the Minimize Capacity Divergence alternative but emphasizes TQM, which improves the variable manufacturing costs. Further analysis should be done by decision trees with future sales forecasts and likely outcome probabilities to properly assess which direction to take the company after Q3-Q4 2001. I hope to have done justice to a topic that requires further research. This report is an entry into
+a chronic inquiry for a thermal camera system that can be used to monitor and log the thermal
+signatures of electrical apparatus with intent to elicit useful information from logged data.
+Project authorization was inferred from January’s class conversations.
+The report was primarily limited by equipment restrictions and safety considerations. Due to
+COVID-19 lab time was not available, and equipment could not be used to properly simulate
+faulty apparatus. A toaster oven with adjustable temperature was adequate for simple thermal
+tests.
+Background research was conducted to understand the nature of blackbody radiation due to its
+fundamental relationship with thermal radiation/infrared spectrum radiation; additionally,
+known electrical heat loss theory was included to highlight the relationship between thermal
+radiation and electrical heat losses.
+Research into thermal detector technology was conducted to understand the nature of thermal
+radiation detection; further, emphasis was placed on thermopile arrays because they are used in
+the proposed system. Optical systems were covered briefly to understand the materials used in
+thermal radiation detection. Reliability engineering and data analysis methods were researched
+to understand a method with which to analyze collected data. The thermal camera system was
+researched in two parts, as hardware and software, because both required different degrees of
+research and both are self-contained systems in and of themselves. The case study confirmed
+that a thermal camera system can be developed for low cost and have many useful applications.
+Research indicated that a system could be used to monitor and log the thermal signatures of electrical
+apparatus and elicit useful system information from thermal data to avoid system failures; therefore, a
+thermal camera system was proposed, designed, and tested.
+Background research was conducted to understand the relationship between blackbody radiation and
+electrical heat losses, and the financial significance of the thermal camera system. Research was
+conducted to understand infrared detectors, infrared optics, reliability engineering and preventative
+maintenance, the thermal camera system design, and advanced system metrics. Primary Research was a
+case study that showcased the ability of the proposed thermal camera system to record thermal
+signatures and process data into useful preventative information.
+The following conclusion and recommendations are based on the research and case study performed for
+the report; where, conclusions are what were learned or proved in the report and recommendations are
+the suggested actions justified by the conclusions.
+In 1800 William Herschel used coloured filters to help limit the transmittance of the sun through
+his telescope; interestingly, he noticed that the heat he felt on his eye depended on the colour of filter
+he used [1][2]. Herschel’s experiments that followed concluded that certain monochromatic
+wavelengths near the end of the red spectrum relate to heat [1][2]. J. Seebeck had discovered in 1821
+that a change in temperature of two dissimilar conductors generated a voltage at their junction [3][4],
+and by 1833 Italian physicists Leopoldo Nobili and Macedonio Melloni had already developed the first
+thermocouple and thermopile, respectively [3][4][5]. These Italian inventions, namely the thermopile,
+allow for sensitive measurements of heat or infrared spectrum electromagnetic radiation [3][4]. The
+bolometer was invented by S.P. Langley in 1881 and was designed to outperform the contemporary
+thermopiles [6]. A biased bridge circuit was used to measure the resulting net current from two detector
+elements whose resistance would change with infrared absorption [3][4]. Refer to Appendix A for a
+detailed timeline of Infrared technology advancements. All electromagnetic waves propagate as a spectrum of varying wavelengths, refer to the macro
+and micro wavelength spectrum in Figure 1. Any object above absolute zero kelvin will radiate heat
+primarily in the infrared spectrum wavelengths [4] and follow established physical relationships.
+The foundation for infrared spectrum electromagnetic radiation can be elicited from the
+following formulas. Planck’s law (the first instance of a quantum equation [4][7]) is the most significant
+in scope, interpretation and application because it includes the speed of light and Plank’s constant;
+further, the derivative and integral of Planck’s Law is Wien’s Displacement law and Stefan-Boltzmann
+Law, respectively. Figure 2 is a plot of Planck’s law at multiples of temperature plotted with Wien’s law
+superimposed. Wien’s law is the maxima of the curve and Stefan-Boltzmann Law is the area under each
+curve. Refer to Appendix B for the derivation of Wien’s Law and Appendix C for the derivation of StefanBoltzmann Law from Planck’s Law.
+Power losses are radiated as heat in electrical systems; therefore, the related formulas are
+examined here. Combinations of these formulas can be used to solve for information in the electrical
+system. See Appendix D for an example of electrical formulas and blackbody radiation formulas used
+together to solve electrical variables.
+The purpose of this paper is to introduce a method of preventive maintenance in an electrical
+system by using thermal imaging to collect data, and data extrapolation to create useful metrics;
+specifically, on medium and low voltage systems.
+All electrical systems produce heat losses by electrical resistance and mechanical friction. When
+an aberrant electrical or mechanical condition exists, these systems operate and radiate heat levels
+above their nominal rating. When systems are operated above their nominal heat rating, they begin to
+degrade, and without corrective maintenance the equipment will fail.
+Heat is associated with radiation of infrared spectrum wavelengths; therefore, their propagation,
+absorption and emission will be analyzed and applied to understand the function of devices used to
+detect heat in nominal and aberrant electrical systems. Metrics for preventative maintenance of
+equipment can be deduced from the data collected by the monitoring devices; therefore, data collection
+and analysis methods will be analyzed and applied to mathematic models to create metrics that can aid
+in preventative maintenance. Thermal imaging is significant because it can be used to identify aberrant conditions that could
+cause a loss of service; furthermore, the thermal imaging database system proposed in this paper can
+collect the data required to create metrics that can contribute to diagnosing the health of the electrical
+system while remaining low in cost and maintenance.
+All sectors of society that require electricity to function are susceptible to loss of electrical service,
+this downtime has a spectrum of negative effects defined on the x and y-axis as importance and
+urgency, respectively; naturally, safety and economy are the primary maxima. A 2013 paper by Y.
+Yoshida and R. Matsuhashi found an average cost of a one-hour outage across Japanese industry as
+672¥𝑘𝑊
+ℎ
+[10]; therefore, for a customer with 1000kW load, an average outage would cost $8681CAD per
+hour and creates sufficient budget headroom to implement a thermal monitoring system.
+Infrared detectors can be categorized into photon and thermal detectors [3][4][8]. Photon
+detectors work by measuring the change in a material’s electrical properties when photon absorption
+causes a change in charge carrier state in the material [3][4][8]. Thermal detectors work by measuring
+the change in an electrical variable in the detector material when there is a change in the material
+temperature [3][4][8]. Photon detectors are not used in this report due to availability and cost but
+further information on them is included as a comparison to thermal detectors. Photon detectors function by converting photon energy absorbed in a material into released
+electrons, where the energy required to shift a charge carrier from the valence band to the conduction
+band is defined by the bandgap of the material and measured in electron volts [3][4][8]. The electrical
+properties of the material vary proportionately with the change in charge carrier state; therefore, the
+variance in electrical properties of the material can be measured to determine the total photon
+irradiance [3][4][8]. This method requires a wavelength to accommodate a large enough charge to
+change charge carrier states in the material; consequently, the wavelengths that photon detectors can
+detect are limited to a specific band or must be cooled [3][8]. Photon detectors are also known as
+quantum detectors because their founding principle is the measurement of individual photon energy;
+therefore, Planck’s constant and probability are utilized to model the incident radiation power [3][4][8].
+Thermal detectors function by absorbing infrared radiation and varying the temperature of the
+detector material [3][4][8]. If the material has an electrical variable that is proportional to a change in
+temperature then a change in temperature of the material will cause a change in the electrical variable
+9
+of the material; therefore, the change in the electrical variable can be measured[3][4][8]. The primary
+influence in thermal detectors is the absorbed temperature; therefore, a larger range of wavelengths
+can be measured compared to photon detectors [3][4][8]. Thermal detectors are further categorized by
+their construction, which are numerous, refer to Appendix E for a list of popular thermal detectors and
+their method of operation. The thermoelectrical principles that thermocouples follow were pioneered by J. Seebeck in 1821
+[3] when he observed that a potential difference is found at the junction between two dissimilar
+conductors when there is a change in their temperatures; Expressed in 𝑢𝑉
+𝐾
+. Figure 3 shows the initial
+design that Seebeck used to observe the voltage generation of the thermocouple. 
+The output of a thermocouple is measured in uV/K and Nobili noticed it is too small for practical
+measurements [5]. The thermocouple creates a potential from the thermoelectrical response from two
+dissimilar conductors; therefore, the pile can be placed in series to create a larger potential and a larger
+measurable value [3][4][8]. This series configuration of thermocouples is called a thermopile and its
+design is credited to Melloni [5]; Figure 4 displays the connection of a thermopile. Coefficients for the
+10
+dissimilar conductors are notated as 𝛼𝑎 and 𝛼𝑏 and their difference equals 𝛼𝑠
+; Therefore, a thermopile’s
+change in potential is defined by.
+The Thomson and Peltier effects counter the Seebeck effect which produces the potential
+between the two conductors [3][8]. The Peltier effect is equivalent to counter emf and the Thomson
+effect explains the relationship between heat conduction gradients and current flow in a conductor
+[3][8]. Both countereffects should be taken into consideration when designing a thermopile. If the
+reader requires a detailed mathematical analysis of the Thomson and Peltier effects find them in
+Thermal Infrared Sensors by H. Budzier and G. Gerlach [8].
+Modern era thermopiles can be produced with semiconductor materials and utilize integrated
+chip manufacturing (micro-machining) to reduce size, cost and allow for the design of thermopile arrays
+[3][4][8]. A detector array is simply many detectors arranged so that many points of detection are
+available, and a final image can be formed from these points. Each detector makes up one pixel in an
+array [3][4][8]. The MLX90640 thermal sensor used in this report is an example of a 24x32 thermopile
+array; the array layout can be seen in Appendix F. A detailed teardown of the MLX90640 sensor is
+available for $4489 [12] from Research and Markets online store; unfortunately, there was only a $100
+11
+budget allocated for this report. In place of a proper teardown see Figure 5 which is a typical single
+micro-machined detector, this detector is one of 756 elements that make up the MLX90640’s 24x32
+detector array. 
+S. P. Langley published The Bolometer and Radiant Energy in 1881, wherein he set out to
+develop a device that would measure quantities of radiant heat with equal accuracy and greater
+sensitivity than the contemporary thermopiles [6], which had dominated the field since their inception
+in 1833 [3][4][8]. The design uses a current source to bias a Wheatstone bridge circuit that is connected
+to the sensing element of the bolometer. The bolometer has two sides that are constructed identically
+with wires spaced in channels across the surface. When one side of the bolometer element is exposed to
+a radiating source the resistance of the wire changes and results in a difference of currents in the
+Wheatstone bridge circuit which can be measured. The measurements from Langley’s bolometer
+exceeded his goals for accuracy and sensitivity as the error was less than one percent (1/10000 of a
+Celsius change caused noticeable deflections in the galvanometer), and 10 to 30 times more sensitive
+12
+than thermopiles [6]; Additionally, his bolometer responded to changes in temperature quicker due to
+the wire in the bolometer having a small thermal capacity and large temperature coefficient [6]. The
+original design and test results by Langley can be seen in Appendix G.
+Modern bolometer research was initiated by United State Military contracts given to Honeywell
+and Texas Instruments in the 1980s [8]. The information was made public in 1992 [8] and applied
+integrated circuit (IC) processing technology to produce bolometer arrays at a low cost, and high volume
+[3][4][8]. Refer to Appendix H to see a cross-section of a modern bolometer array. 
+Infrared detectors require an optical system to gather and focus infrared radiation onto the
+detector. Everyday optics such as eyeglasses, camera lenses, projector lenses and similar systems are
+designed to augment the radiation that is visible to the human eye [13]; therefore, optical systems that
+augment the visible light spectrum transmit visible light spectrum radiation and are not designed for
+radiation outside of the visible spectrum. Infrared spectrum radiation is outside of the visible light
+spectrum; therefore, visible light spectrum optical systems should not, and in many cases cannot be
+used to augment infrared radiation [3]. Refer to Appendix I where the transmission spectrums of optical
+materials are shown.
+For example on a sunny day, a child is outside at a picnic table playing with a magnifying glass,
+they notice the visible light from the sun can be concentrated when the magnifying glass is positioned a
+certain distance away from the table creating a strong point where all the rays meet on the table. After
+a couple of attempts, the child was able to keep the rays focused on one point to produce smoke and a
+burn mark. The resulting radiating energy required to create this burn mark is primarily from visible
+light, this is because solar radiation is roughly emitting radiation at a temperature of 5250C; therefore,
+the irradiance is greatest between 400nm – 800nm and the magnifying glass can focus this spectrum of
+energy efficiently. Wien’s Law can be used to find the wavelength where infrared radiation is maximum;
+13
+𝜆𝑚𝑎𝑥𝑇 = 2.898𝐾µ𝑚 ∴ 𝜆𝑚𝑎𝑥 =
+2.898𝐾µ𝑚
+5250+273.15𝐾
+= 524.70𝑛𝑚
+Refer to Figure 6 to see the irradiance spectrum that the child would be playing with on a clear sunny
+day and that peak irradiance is at ~524.70nm. But what if solar radiation was emitted at 100C? The
+energy contained in these photons would be primarily in the far infrared spectrum at
+𝜆𝑚𝑎𝑥𝑇 = 2.898𝐾µ𝑚 ∴ 𝜆𝑚𝑎𝑥 =
+2.898𝐾µ𝑚
+100+273.15𝐾
+= 7766.31𝑛𝑚
+This radiation could not be focused by the child’s magnifying glass because the magnifying glass material
+does not transmit energy beyond 2000-3000nm, assuming crown glass is used [4][14]. In this case, the
+child would need a magnifying glass that is designed with materials that have high transmittance of
+infrared spectrum radiation (visible light is no different than infrared light it is simply travelling at a
+different wavelength). Infrared optics are all designed with the transmittance of infrared spectrum
+wavelengths, most materials are opaque and utilize coatings to reduce imperfections [3][4][8].
+Because of the wide scope that reliability engineering encompasses (refer to Appendix J for work
+scope figure) this paper considers Alessandro Birolini’s Reliability Engineering [15] as the de facto
+standard in reliability engineer; therefore, “The purpose of reliability engineering is to develop methods
+and tools to evaluate and demonstrate reliability, maintainability, availability, and safety of components,
+equipment, and systems” [15]. Reliability, affordability, maintainability, availability, and safety are the
+primary criteria that reliability engineers assess when developing methods to protect an asset
+[15][16][17]. Electrical maintenance can be divided into corrective maintenance and preventative
+maintenance; where, corrective maintenance is conducted after failure and preventative maintenance is
+conducted prior to failure [7]. NASA’s Reliability-centered Maintenance Guide explains that preventative
+maintenance functions on the principle that failure probabilities can be found statistically [16]. In this
+report analysis of the temperature datasets allow for metrics to be created that precede failure
+probabilities, but these metrics over time would allow for failure probabilities to be found such as in a
+system like the United States Army’s Failure Modes, Effects and Criticality Analyses system (FMECA)
+[17].
+Specific electrical equipment tolerances are dependent on the equipment being inspected;
+consequently, the generic tolerance table from ANSI/NETA should be used as a guideline only and not as
+a substitute for manufacturer datasheets [18]. Refer to Appendix K for the NETA Thermal Testing
+Standards Table. When possible a thermal analysis for specific apparatus should be conducted to
+determine site-specific tolerances. For example, any aluminum apparatus is more susceptible to thermal
+raise impact than copper apparatus [19]. Due to coppers higher thermal capacity, 0.98 versus 0.48, it
+can dissipate heat more efficiently than aluminum [19] and because resistance increases with a change
+in temperature [Formula 1.1.3.2] there exists a state of positive feedback that increases the dissipated
+15
+heat; empirically, this increase in resistance relationship can be observed in thermal fuse time curves
+and can explain why apparatus tends to burn up exponentially, rather than linearly, with respect to
+time.
+A Small Helpful (ASH) Thermal Camera System was made with hardware and software that
+monitors the thermal signatures of electrical and mechanical apparatus in an electrical system and logs
+preconfigured temperature ranges into a database, hosted on the system, that can be accessed and
+analyzed for patterns that correlate with the electrical system’s health.
+Three generic components are required for the proposed system, a single board computer, a
+thermal sensor, and an HMI display. Specifically, a Raspberry Pi 3B+, Melexis MLX 90640 110° FOV
+Thermal Sensor, and Adafruit TFTPI 240x240 Display were selected for their availability and low cost. See
+Figure 7 for the wiring diagram of the three components, and datasheets for all hardware are available
+upon request.
+A single-board computer is a typical generic PC miniaturized to fit onto a single palm-sized
+Printable Circuit Board (PCB), while it maintains many of the functions of a normal PC it sacrifices power
+and sophistication for size and affordability [20]. Because of their size, affordability and flexibility the
+single board computer can be thought of as a general development platform for this design, the
+Raspberry Pi is the monkey wrench in a metaphorical tool kit, it is not the right fit but it fits nonetheless.
+The Raspberry Pi Zero W has the required, GPIO pins to interface with the MLX 90640 and TFTPI
+240x240 display, WiFi 2.4GHZ module to connect wirelessly to networks for access, and processing
+power to host the software required for the database and data processing [20].
+Thermal sensors detect the irradiance of infrared radiation from an object with an array of
+detectors then display the array as pixels to form an image, thermal sensors were discussed in depth in
+Section 2.1.2.1.
+The MLX 90640 is a 24x34 thermopile array, each thermopile detector makes up a single pixel in
+the 768 that make up the entire image [21]. Refer to Appendix E to see a readout of the MLX90640’s
+thermopile array. A Human Machine Interface (HMI) allows the end-user to communicate with the thermal
+camera system in the field to retrieve data and send orders. This design primarily used the HMI to
+display the thermal sensor data as a video stream.
+The Adafruit TFTPI 240x240 display was purchased carelessly and is not recommended due to its
+1:1 aspect display ratio that is at odds with the 3:2 aspect ratio of the thermal camera’s 32x24 detector
+array, this results in a cropped 3:2 output on the 1:1 display or scaled 3:2 output on the 1:1 display. It is
+recommended that a 3:2 ratio display is used.An A.M.P (Apache, MySQL, and PHP) software combination is required. Apache, MySQL and PHP
+are a web server, database server and programming language, respectively. These are required to host a
+web server where the local database can be accessed and manipulated with the programming language
+[22]. Figure 8 is a process flow chart for how the system interacts. The cloud bubble rectangles
+represent software components and solid rectangle outlines represent hardware components. A web server allows for the files on a physical system to be interfaced on a network, the
+network can be an intranet or internet [22][23]. The web server takes requests from devices and then
+serves that content to the device in a web browser. HTTP (Hypertext Transfer Protocol) is the protocol
+used by webservers to transfer data [22][23]. A web server allows for the data on the Raspberry Pi to be
+18
+accessed on other devices on the same network and is required for users to access PHPmyAdmin which
+configures the database software.
+Apache is used because it is free, the most used web server software available and, can be
+installed on the Raspberry Pi’s Linux based operating system [22]. There are 20+ other webservers
+available, some open source, and some proprietary that could be used interchangeably for this project
+[24]. Database server software provides database services to other programs and computers
+following the client-server model [22]. The database server is like the web server but instead of files,
+database entries are requested and served [22]. A database server is required to organize and store the
+data from the thermal sensor.
+MySQL is used as the database server hosted on the Raspberry Pi because it is open source and
+has been used in many applications with large volumes of data [22]. A non-exhaustive list of companies
+that utilize MySQL for database services includes Netflix, YouTube, Spotify, Twitter, Tesla, and NASA
+because of its flexibility and applicability [25].
+A programming language is used to interface with hardware and instructs what actions are
+processed. PHP is used in this instance to communicate between the web server and the database
+server [22]. PHPmyAdmin is hosted on the webserver and acts as a graphical user interface to interact
+with the MySQL database. The Pimoroni MLX90640 sensor is $77.85 [26], the Raspberry Pi Zero W is $13.41 [27] and the
+PiTFT 1.3” screen is $20.33 [28] for a total of $111.59 exceeding the $100 budget by $11.59. The cost
+could be reduced by sourcing the MLX90640 sensor in bulk where 500 units are $63.42ea. [29], and
+19
+replacing the PiTFT 1.3” display with a generic TFT display for $11.43 [30] to reduce the total cost of the
+design to $88.26. No direct cost comparison can be made because there are no commercial
+contemporaries to the proposed thermal camera system, but NASA documented average rental rates in
+2008 for a thermographic system was $2000CAD per week and a thermographic contractor was
+$1400CAD per day [16]. FLIR currently rents thermal systems for 10% of MRSP per week [31]. The
+proposed thermal camera system is feasible, and implementation would not be limited by any existing
+industrial or commercial maintenance budget. (Note: The Raspberry Pi 3B+ could not be sourced so the
+Raspberry Pi Zero W was quoted instead.)A piece of “electrical apparatus”, a toaster oven, was monitored by the thermal camera system
+where nominal and aberrant thermal signatures were captured and compared for correlating metrics
+between the two signatures. Pearson’s correlation coefficient and a definite integral were used to
+compare the similarities between the two datasets. The thermal camera system was programmed with
+a 30C lower limit to remove irrelevant data points, the system emissivity was set to 1 as a standard for
+testing. Refer to Appendix L for the C++ code that was used to control the Thermal Camera System. The thermal camera system was used to collect the thermal signatures of a toaster oven over a
+set interval of time at 250C and 350C. For the demonstration, 250C will be set as the nominal operation
+value of the toaster oven and 350C will be set as the aberrant operation value. Refer to Figure 9 for a
+scatter plot of the collected data. It should be noted that several metrics could be used to analyze the two signatures, these two
+metrics are used because of their previous application within the Electrical Engineering Technology
+program. The two metrics used to assess the variability of the nominal and aberrant signatures are
+Pearson’s Correlation Coefficients and definite integrals. When both metrics are used and compared a
+qualified Technologist can make an accurate prediction of the operational status of the monitored
+equipment; further, tolerance setpoints can be deduced from the analysis and programmed into the
+monitoring system for specific apparatus.The value and polarity of 𝑟 describes the correlation strength and proportionality, respectively [32].
+Where strength is −1 ≤ 𝑟 ≥ 1 with greater relational strength near 1, and proportionality is direct
+when positive and inverse when negative [32].
+The collected data was used to calculate Pearson’s Coefficient with 250C temperature data as x
+and 350C temperature data as y. This resulted with an 𝑟 = +0.792146428, this shows a strong positive
+relationship but as Figure 9 shows the toaster oven initially heats very similarly at operational or
+aberrant temperatures which skew the function to see more of a linear relationship. The Pearson’s
+Coefficient was recalculated from 23:54:14 to 23:59:20, this resulted with 𝑟 = +0.44572, this shows a
+correlation much less than the initial calculation and is more representational of the difference between
+the two datasets. The Pearson’s coefficients and integrals can be used together to interpret the degree of
+deviation from operational conditions and allow for the categorization of aberrant conditions.
+For the data analysis with the initial heating period omitted the 𝑟 = +0.44572 and integral difference
+of +28.81%. This information shows that over the same period of time a larger amount of energy was
+used to heat the toaster oven based on the +28.81% integral difference and that the linear correlation
+between temperature points is directly proportional but not strongly linked based on the low positive
+Pearson’s correlation coefficient.
+If a nominal tolerance for the toaster oven must be within 10% of nominal operation, then the
+Pearson’s correlation coefficient should be greater than ±0.90 and the integral for the interval should be
+within 60291.4595𝐶𝑠 𝑡𝑜 73689.5615𝐶𝑠. The actual average temperature of the toaster oven was
+237.61C and 294.88C for 250C and 350C settings, respectively. The difference of average temperature
+was 24.10% from nominal, this value is directly related to the integral difference of 28.81% and further
+corroborates the aberrant toaster oven condition. These values can be used as the categorization of
+aberrant operation of the toaster oven; where, values of temperature that exceed both tolerances
+would indicate aberrant conditions and the monitoring system would output an alarm signal. The proposed thermal camera system could be installed to monitor rotating machines, splices,
+high load fuses, 3 phase imbalances in panels, arc-flash potential areas, apparatus oil levels, and any
+23
+application where radiated heat records can be useful. There are many applications that heat signatures
+have because of the relationships between heat, as a power loss, and current and voltage. Advanced data analysis methods such as artificial neural networks for data classification [34],
+load current influence on temperature [35], and partial discharge detection [36] are examples of where
+the investigation should continue for the proposed thermal camera system.
